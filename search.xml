@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我是一个测试啊</title>
-    <url>/2020/10/15/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%95%8A/</url>
-    <content><![CDATA[<p>坚持就是胜利！</p>
-]]></content>
-  </entry>
-  <entry>
     <title>superset windows开发环境搭建</title>
     <url>/2019/11/14/superset-windows%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</url>
     <content><![CDATA[<h2 id="SuperSet-Windows开发环境搭建"><a href="#SuperSet-Windows开发环境搭建" class="headerlink" title="SuperSet Windows开发环境搭建"></a>SuperSet Windows开发环境搭建</h2><h3 id="写在前面的话"><a href="#写在前面的话" class="headerlink" title="写在前面的话"></a>写在前面的话</h3><p>superset官方安装配置指南：<br><a href="https://superset.incubator.apache.org/installation.html" target="_blank" rel="noopener">https://superset.incubator.apache.org/installation.html</a></p>
