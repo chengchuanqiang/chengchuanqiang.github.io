@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-10-15T12:17:39.071Z</updated>
+  <updated>2019-11-14T12:37:27.979Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>我是一个测试啊</title>
-    <link href="http://yoursite.com/2020/10/15/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%95%8A/"/>
-    <id>http://yoursite.com/2020/10/15/我是一个测试啊/</id>
-    <published>2020-10-15T12:14:00.000Z</published>
-    <updated>2020-10-15T12:17:39.071Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;坚持就是胜利！&lt;/p&gt;
-
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>superset windows开发环境搭建</title>
