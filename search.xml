@@ -60,6 +60,12 @@
 注：运行完npm run dev，在命令窗口会停止到，不要误以为是执行不下去，保持窗口开启状态即可，一有文件变动时，它会重新编译；</li>
 </ol>
 ]]></content>
+      <categories>
+        <category>superset</category>
+      </categories>
+      <tags>
+        <tag>superset</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -78,5 +84,11 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
   </entry>
 </search>
