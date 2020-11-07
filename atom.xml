@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-14T12:37:27.979Z</updated>
+  <updated>2020-11-07T07:57:54.364Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>责任链设计模式</title>
+    <link href="http://yoursite.com/2020/11/07/%E8%B4%A3%E4%BB%BB%E9%93%BE%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <id>http://yoursite.com/2020/11/07/责任链设计模式/</id>
+    <published>2020-11-07T07:52:25.000Z</published>
+    <updated>2020-11-07T07:57:54.364Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;责任链设计模式（Chain-of-Responsibility）&quot;&gt;&lt;a href=&quot;#责任链设计模式（Chain-of-Responsibility）&quot; class=&quot;headerlink&quot; title=&quot;责任链设计模式（Chain of
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>superset windows开发环境搭建</title>
